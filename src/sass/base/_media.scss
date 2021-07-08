@@ -1,0 +1,60 @@
+@media (max-width: 1200px) {
+    .promo {
+        .header {
+            padding-right: 20px;
+        }
+        &__wrapper {
+            padding-right: 20px;
+        }
+    }
+
+    .advantages {
+        &__item{
+            padding-right: 10px;
+            max-width: 208px;
+        }
+    }
+
+
+    .carousel .tns-item img {
+        width: 550px;
+    }
+
+    .next {
+        margin-right: 95px;
+    }
+
+    .prev {
+        margin-left: 95px;
+    }
+
+    .pageup {
+        right: 80px;
+    }
+
+    .title_left {
+        margin-left: 20px;
+    }
+
+    .consultation__descr {
+        margin-left: 20px;
+    }
+
+    .feed {
+        padding-left: 20px;
+    }
+
+    .feed-form {
+        margin-left: 20px;
+    }
+
+    .catalog {
+        padding-left: 20px;
+    }
+}
+
+@media (max-width: 767px) {
+    .carousel .tns-item img {
+        width: 385px;
+    }
+}
